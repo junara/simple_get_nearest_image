@@ -1,0 +1,7 @@
+images/*
+selected/*
+mnist
+vendor
+.bundle
+data
+
