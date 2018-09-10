@@ -22,3 +22,7 @@ bundle exec ruby test.rb
 {:file=>"selected/mnist800.png", :length=>65220.0}
 {:file=>"selected/mnist133.png", :length=>65337.0}
 ```
+
+#結果
+
+[![Image from Gyazo](https://i.gyazo.com/245bfcf3f51e493186315bfc38301f31.png)](https://gyazo.com/245bfcf3f51e493186315bfc38301f31)
